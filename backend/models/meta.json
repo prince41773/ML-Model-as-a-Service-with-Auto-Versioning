@@ -1,0 +1,12 @@
+[
+  {
+    "version": "v1",
+    "metrics": {
+      "accuracy": 0.7359
+    },
+    "target_type": "classification",
+    "filename": "cc7932e4-88ac-4337-bfec-6dd8e924e28a_diabetes.csv",
+    "deployed": false,
+    "best_model": "Logistic Regression"
+  }
+]
